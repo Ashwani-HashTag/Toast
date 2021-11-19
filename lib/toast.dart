@@ -1,4 +1,4 @@
-library toast;
+library hash_toast;
 
 import 'package:flutter/material.dart';
 
